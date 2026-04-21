@@ -2,27 +2,30 @@
 
 ## Marketing Automation
 Name:
-[Insert automation name]
+AI-Generated Health Content & Outreach
 
 Description:
-[What it does]
+Automatically generates personalized health-related content, social media posts, and email campaigns to promote Health Insight AI.
 
 Reason for Selection:
-[Why this is useful for the product]
+This helps increase awareness of the platform and attract users interested in improving their health through AI-driven insights.
 
 ---
 
 ## Operations Automation
 Name:
-[Insert automation name]
+AI Health Assistant Chatbot
 
 Description:
-[What it does]
+Provides users with real-time responses to health-related questions and guides them through using Health Insight AI features.
 
 Reason for Selection:
-[Why this improves internal workflow]
+This improves user experience by offering immediate support and personalized guidance without requiring manual assistance.
 
 ---
 
 ## Summary
 These automations were selected to improve both user acquisition and operational efficiency.
+
+## Rationale (My Contribution)
+The marketing automation helps scale outreach and attract users interested in health insights. The operations automation ensures users receive quick, personalized support, making the platform more efficient and scalable.
