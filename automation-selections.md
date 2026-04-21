@@ -27,5 +27,3 @@ This improves user experience by offering immediate support and personalized gui
 ## Summary
 These automations were selected to improve both user acquisition and operational efficiency.
 
-## Rationale (My Contribution)
-The marketing automation helps scale outreach and attract users interested in health insights. The operations automation ensures users receive quick, personalized support, making the platform more efficient and scalable.
