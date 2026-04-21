@@ -2,6 +2,7 @@
 
 ## Frontend
 React & Vite: The main tools used to build the website components.
+
 Tailwind CSS: A design tool that makes the buttons, fonts, and colors look clean and professional.
 
 ## Backend
@@ -15,5 +16,7 @@ Gemini 2.5 Flash: A language model created by Google that reads the user's sympt
 
 ## Other Tools
 GitHub: A storage space for your code that tracks every change you make. 
+
 Vercel: The service that hosts our website so we can share a link with other users. 
+
 Lucide Icons: A library of simple icons. In our case, we use the "send" and "user" icons throughout the app. 
